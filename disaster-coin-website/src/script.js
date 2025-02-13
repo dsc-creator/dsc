@@ -1,0 +1,1 @@
+console.log('Disaster Coin Website Loaded');
